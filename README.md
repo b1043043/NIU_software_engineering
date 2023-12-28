@@ -1,1 +1,1 @@
-# NIU_software_engineering
+# NIU-software-engineering
